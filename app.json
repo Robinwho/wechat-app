@@ -1,0 +1,30 @@
+{
+  "pages":[
+    "pages/index/index",
+    "pages/logs/logs"
+  ],
+  "window":{    
+    "navigationBarBackgroundColor": "#fff0f0",    
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "小程序",
+    "backgroundColor": "#eeeeee",
+    "backgroundTextStyle": "light"
+  },
+  "tabBar": {
+    "list": [{
+      "pagePath": "pages/pay/pay",
+      "text": "微商城"
+    }, {
+      "pagePath": "pages/index/index",
+      "text": "查订单"
+    }, {
+      "pagePath": "pages/logs/logs",
+      "text": "找客服"
+    }]
+  },
+  "networkTimeout": {
+    "request": 10000,
+    "downloadFile": 10000
+  },
+  "debug": true  
+}
