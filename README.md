@@ -1,2 +1,3 @@
 # wechat-app
-##wechat small app demo
+##微信小程序样例
+基于微信小程序框架，修改前端UI，并引入简单的API，展现了开发的便捷性。
