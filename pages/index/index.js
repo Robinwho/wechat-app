@@ -1,5 +1,6 @@
 //index.js
 //获取应用实例
+//主页面脚本
 var app = getApp()
 Page({
   data: {
